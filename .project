@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<projectDescription>
+	<name>AMRParser</name>
+	<comment></comment>
+	<projects>
+	</projects>
+	<buildSpec>
+		<buildCommand>
+			<name>org.python.pydev.PyDevBuilder</name>
+			<arguments>
+			</arguments>
+		</buildCommand>
+	</buildSpec>
+	<natures>
+		<nature>org.python.pydev.pythonNature</nature>
+	</natures>
+	<linkedResources>
+		<link>
+			<name>amrBankXMLFile.xml</name>
+			<type>1</type>
+			<location>/home/trideep/Downloads/amrBankXMLFile.xml</location>
+		</link>
+		<link>
+			<name>amr_text.txt</name>
+			<type>1</type>
+			<location>/home/trideep/Downloads/amr_text.txt</location>
+		</link>
+	</linkedResources>
+</projectDescription>
