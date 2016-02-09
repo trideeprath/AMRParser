@@ -1,5 +1,5 @@
-# AMRParser
-
+# AMRParser 
+[AMR Documentation](http://amr.isi.edu/)
 Python Script to parse the AMR graph and return the list of all edges. 
 
 ####Input is the AMR graph:
